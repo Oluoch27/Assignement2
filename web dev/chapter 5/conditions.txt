@@ -1,0 +1,17 @@
+ a) A == 34 && B == 55
+True, because both conditions are met: A is 34 and B is 55.
+
+b) A >= 30 || B <= 50
+True, because A is greater than or equal to 30 (even though B is not less than or equal to 50).
+
+c) B == 55 || A == 35
+True, because B is equal to 55 (even though A is not equal to 35).
+
+d) A != 34
+False, because A is indeed equal to 34.
+
+e) A >= 30 && A < 35
+True, because A is greater than or equal to 30 and also less than 35.
+
+f) B > 50 || B < 56
+True, because both conditions are true (B is greater than 50 and also less than 56).

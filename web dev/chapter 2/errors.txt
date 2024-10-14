@@ -1,0 +1,3 @@
+1.Incorrect Comment Syntax: The line / This is a comment for PHPprogram is not a valid comment in PHP. In PHP, comments can be written as // single-line comment, /* multi-line comment */, or # single-line comment.
+2.Missing Semicolon: There is no semicolon at the end of the second echo statement (echo "Display second line </br>").
+3.Case Sensitivity Issue: The Print statement should be in lowercase (print), as PHP is case-sensitive.

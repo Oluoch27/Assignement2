@@ -1,0 +1,32 @@
+1. Type this URL https://www.apachefriends.org/index.html on address bar of your browser. 
+Click the download link, and select download XAMPP Package then save the xampp-windowsx64-7.1.30-4-VC14-installer executable file on your download folder
+2. After the download completes, run the xampp-windows-x64-7.1.30-4-VC14-installer 
+application file on your computer then to begin the installation process. If you have previous 
+version of XAMPP installed on your computer, you may be prompted to delete the older 
+version before continuing.
+3. You will see splash screen BITNAMI and display warning alert then Click OK button.
+4. You will see setup screen and then Click Next.
+5. You will see next screen for select component and you select check boxes for required 
+component for server like (Apache , MySQL, FileZilla FTP server, Tomcat), and other 
+programming language component like ( PHP, Perl , phpMyAdmin ) then click next.
+6. Next screen appear choose the installation folder, by default c:\xampp then Click Next 
+button.
+7. In the next screen provide Bitnami for xampp free installers that can install Drupal, Joomla, 
+WorPress and many other popular open source apps on top of your existing xampp
+installation. If your required then click check box otherwise no then Click Next button.
+8. The next screen ready to installation then click next button and then start installation process 
+on your computer.
+9. After installation process complete, you see completing the xampp setup wizard and click 
+the finish button.
+10. After the select language US or other then select US and Click Save button and will show 
+xampp-control panel here you can start and stop services of Apache , MySQL and others apps.
+11. We can from here start or stop services of different servers After Apache and MySQL services 
+Start
+12. Now open up your browser and type “localhost” on URL address bar then you should be 
+shown with the following screen. xampp package app index page show on your browser than it mean your xampp app successfully install and configure. Now you start PHP and MySQL 
+programming.
+After you install the xampp package, you can launch the application as you would any other 
+Windows application. Click the start button on the taskbar and select programs XAMP package 
+app start. The xampp app icon appears in the system tray on the taskbar. With the application 
+running, you can click the xampp packager icon to display available menu option. If you click 
+apache or MySQL under the xampp-control panel, you can the verify that service is running.
